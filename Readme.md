@@ -26,6 +26,8 @@ to develop apps in Dart, while always keeping an eye to the native mobile develo
 
 - <img src="https://play-lh.googleusercontent.com/4JriSsh7SxwUxqN5vL3Q-pXRBHegdcRyW5WKG9DCix439mJe2F9P2h2-Wcut4YiD1Eo=s180-rw" alt="drawing" width="25"/>&nbsp;&nbsp;[Lettore Fattura Elettronica](https://play.google.com/store/apps/details?id=com.lorenzogreco.fatturaelettronica&hl=en_GB&gl=US)
 
+- <img src="https://play-lh.googleusercontent.com/--DPpnqb_dvZGUxIyR62BvgbakxMPG0QYKvnwPBjbgvqJRrHWrr7UMDOYpk6tdGqwEw=w480-h960-rw" alt="drawing" width="25"/>&nbsp;&nbsp;[MasterDex](https://lorenzogreco.com/apps/masterdex/)
+
 - <img src="https://play-lh.googleusercontent.com/vgNHwuMs_wMrx-n7cFbXd9SgsVZWwyEpwfmSB9hH6vSZT-BORzezfMP80OVeXHfpKA=s180-rw" alt="drawing" width="25"/>&nbsp;&nbsp;[Codice Fiscale e Carta d'identità](https://play.google.com/store/apps/details?id=com.lorenzogreco.cfdicreator&hl=en_GB&gl=US)
 
 - <img src="https://play-lh.googleusercontent.com/iOpRcQhyEEu1DyS6prX444S43KUIZ8HSK_TYOAhncOEEe8Iwq3Uo38lyEoQg97byYP_-=s180-rw" alt="drawing" width="25"/>&nbsp;&nbsp;[ToU](https://lorenzogreco.com/apps/tou/)
