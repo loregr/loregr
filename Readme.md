@@ -5,9 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-333333?style=flae&logo=Medium&logoColor=white&link=https://medium.com/@lorenzogreco/)](https://medium.com/@lorenzogreco)
 
 ### 💡 About Me
-Professional Software Engineer with passion for mobile
-technology. Experienced designer, trainer and team lead with
-focus on best practises and excellence.
+Professional Software Engineer with a passion for mobile technology. Experienced designer, trainer, and team lead with a focus on best practices and excellence.
 
 - I speak: 🇮🇹  🇬🇧
 - My passions: 🏋🏻‍♂️  🎵  🛫 📱 💻
